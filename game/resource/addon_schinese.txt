@@ -1465,9 +1465,9 @@
 		"perks_level_1"		"+更好的英雄Perk"
 		"perks_level_2"		"+高级Perk"
 
-		"open_in_browser"				"点击此处前往PATREON.COM\n并再次向我们发送你的Steam链接"
-		"link_steam"					"在Patreon上连接你的Steam账户以重新获得Perk"
-		"warning_patreon_ids_text"		"十分抱歉出现预料外的服务器停机。\n现在我们需要手动收集所有Steam URL/ID。\n我们将无法为缺失Steam URL或ID的玩家提供福利。"
+		"open_in_browser"				"点击此处打开反馈表单"
+		"link_steam"					"击杀效果已在收藏中禁用"
+		"warning_patreon_ids_text"		"收藏击杀效果已被暂时禁用。我们正在调查此功能对于性能表现的影响。\n请使用反馈表单告知我们卡顿问题是否已经得到修复，或者依然还是之前的情况\n我们很抱歉给您带来不便，感谢您的理解与支持。"
 		
 		"feedback"					"反馈"
 		"default_feedback"			"写下你的反馈、建议与想法"
